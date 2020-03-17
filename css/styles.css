@@ -2,8 +2,6 @@
 body{
     text-align: center;
     object-position: center;
-    /* background-image: url(https://images-na.ssl-images-amazon.com/images/I/71wjmH8ZiEL._AC_SL1000_.jpg); */
-    /*background-image: url(/img/resort1.jpg);*/
     background-repeat: no-repeat;
     image-orientation: center;
     background-position: center;
@@ -44,7 +42,7 @@ a{
    overflow: hidden;
 
    width: 100%;
-   background-image: url(/img/resort2.jpg);
+   background-image: url(./img/resort2.jpg);
    height: 250px;
    
    background-position: center;
